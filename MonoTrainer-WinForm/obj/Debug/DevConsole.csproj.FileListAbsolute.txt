@@ -1,0 +1,2 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsole\DevConsole\obj\Debug\DevConsole.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsole\DevConsole\obj\Debug\DevConsole.csproj.CoreCompileInputs.cache

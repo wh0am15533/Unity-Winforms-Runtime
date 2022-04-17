@@ -1,0 +1,6 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\EndzoneUnlocker\obj\Debug\EndzoneUnlocker.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\EndzoneUnlocker\obj\Debug\EndzoneUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\bin\Debug\EndzoneUnlocker.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\bin\Debug\EndzoneUnlocker.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\EndzoneUnlocker\obj\Debug\EndzoneUnlocker.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\EndzoneUnlocker\obj\Debug\EndzoneUnlocker.pdb

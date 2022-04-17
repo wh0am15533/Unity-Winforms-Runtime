@@ -1,0 +1,7 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsoleLoader\bin\Debug\DevConsoleLoader.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsoleLoader\bin\Debug\DevConsoleLoader.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsoleLoader\DevConsoleLoader\obj\Debug\DevConsoleLoader.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsoleLoader\DevConsoleLoader\obj\Debug\DevConsoleLoader.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsoleLoader\DevConsoleLoader\obj\Debug\DevConsoleLoader.csproj.CopyComplete
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsoleLoader\DevConsoleLoader\obj\Debug\DevConsoleLoader.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\DevConsoleLoader\DevConsoleLoader\obj\Debug\DevConsoleLoader.pdb

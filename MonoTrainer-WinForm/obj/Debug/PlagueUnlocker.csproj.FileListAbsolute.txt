@@ -1,0 +1,14 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueUnlocker.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\bin\Debug\PlagueUnlocker.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\bin\Debug\PlagueUnlocker.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueUnlocker.csproj.CopyComplete
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueUnlocker.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueUnlocker.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueUnlocker\bin\Debug\PlagueUnlocker.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueUnlocker\bin\Debug\PlagueUnlocker.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueUnlocker\PlagueUnlocker\obj\Debug\PlagueUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueUnlocker\PlagueUnlocker\obj\Debug\PlagueUnlocker.csproj.CopyComplete
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueUnlocker\PlagueUnlocker\obj\Debug\PlagueUnlocker.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueUnlocker\PlagueUnlocker\obj\Debug\PlagueUnlocker.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueUnlocker\PlagueUnlocker\obj\Debug\PlagueUnlocker.csprojAssemblyReference.cache

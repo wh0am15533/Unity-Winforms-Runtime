@@ -1,0 +1,16 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm\Designer\bin\Release\Designer.exe
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm\Designer\bin\Release\Designer.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm\Designer\obj\Release\Designer.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm\Designer\obj\Release\Designer.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm\Designer\obj\Release\Designer.csproj.GenerateResource.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm\Designer\obj\Release\Designer.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm\Designer\obj\Release\Designer.exe
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm\Designer\obj\Release\Designer.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm-Template\Designer\bin\Release\Designer.exe
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm-Template\Designer\bin\Release\Designer.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm-Template\Designer\obj\Release\Designer.Form1.resources
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm-Template\Designer\obj\Release\Designer.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm-Template\Designer\obj\Release\Designer.csproj.GenerateResource.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm-Template\Designer\obj\Release\Designer.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm-Template\Designer\obj\Release\Designer.exe
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainers\MonoTrainer-WinForm-Template\Designer\obj\Release\Designer.pdb

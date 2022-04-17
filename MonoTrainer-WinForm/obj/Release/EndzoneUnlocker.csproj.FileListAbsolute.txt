@@ -1,0 +1,5 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\bin\Release\EndzoneUnlocker.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\bin\Release\EndzoneUnlocker.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\EndzoneUnlocker\obj\Release\EndzoneUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\EndzoneUnlocker\obj\Release\EndzoneUnlocker.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\EndzoneUnlocker\EndzoneUnlocker\obj\Release\EndzoneUnlocker.pdb

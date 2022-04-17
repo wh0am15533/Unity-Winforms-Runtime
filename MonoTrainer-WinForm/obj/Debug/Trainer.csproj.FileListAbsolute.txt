@@ -1,0 +1,9 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\bin\Debug\Trainer.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\bin\Debug\Trainer.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\Trainer\obj\Debug\Trainer.Properties.Resources.resources
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\Trainer\obj\Debug\Trainer.csproj.GenerateResource.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\Trainer\obj\Debug\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\Trainer\obj\Debug\Trainer.csproj.CopyComplete
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\Trainer\obj\Debug\Trainer.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\Trainer\obj\Debug\Trainer.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\Trainer\Trainer\obj\Debug\Trainer.csprojAssemblyReference.cache

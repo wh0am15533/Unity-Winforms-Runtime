@@ -1,0 +1,6 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\bin\Debug\PlagueConsole.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\bin\Debug\PlagueConsole.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueConsole.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueConsole.csproj.CopyComplete
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueConsole.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\PlagueConsole\PlagueConsole\obj\Debug\PlagueConsole.pdb

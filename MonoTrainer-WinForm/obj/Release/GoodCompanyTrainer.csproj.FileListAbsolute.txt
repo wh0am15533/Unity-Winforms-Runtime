@@ -1,0 +1,6 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\GoodCompanyTrainer\bin\Release\GoodCompanyTrainer.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\GoodCompanyTrainer\bin\Release\GoodCompanyTrainer.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\GoodCompanyTrainer\GoodCompanyTrainer\obj\Release\GoodCompanyTrainer.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\GoodCompanyTrainer\GoodCompanyTrainer\obj\Release\GoodCompanyTrainer.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\GoodCompanyTrainer\GoodCompanyTrainer\obj\Release\GoodCompanyTrainer.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\GoodCompanyTrainer\GoodCompanyTrainer\obj\Release\GoodCompanyTrainer.pdb

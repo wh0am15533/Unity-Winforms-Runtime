@@ -1,0 +1,6 @@
+C:\Users\James\Documents\Visual Studio 2017\Projects\DawnOfManTrainer\bin\Release\DawnOfManTrainer.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\DawnOfManTrainer\bin\Release\DawnOfManTrainer.pdb
+C:\Users\James\Documents\Visual Studio 2017\Projects\DawnOfManTrainer\DawnOfManTrainer\obj\Release\DawnOfManTrainer.csprojAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\DawnOfManTrainer\DawnOfManTrainer\obj\Release\DawnOfManTrainer.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Visual Studio 2017\Projects\DawnOfManTrainer\DawnOfManTrainer\obj\Release\DawnOfManTrainer.dll
+C:\Users\James\Documents\Visual Studio 2017\Projects\DawnOfManTrainer\DawnOfManTrainer\obj\Release\DawnOfManTrainer.pdb
